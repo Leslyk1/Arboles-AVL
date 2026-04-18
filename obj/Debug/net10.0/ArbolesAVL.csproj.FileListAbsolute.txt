@@ -1,0 +1,14 @@
+C:\Users\lesly\Desktop\ArbolesAVL\bin\Debug\net10.0\ArbolesAVL.exe
+C:\Users\lesly\Desktop\ArbolesAVL\bin\Debug\net10.0\ArbolesAVL.deps.json
+C:\Users\lesly\Desktop\ArbolesAVL\bin\Debug\net10.0\ArbolesAVL.runtimeconfig.json
+C:\Users\lesly\Desktop\ArbolesAVL\bin\Debug\net10.0\ArbolesAVL.dll
+C:\Users\lesly\Desktop\ArbolesAVL\bin\Debug\net10.0\ArbolesAVL.pdb
+C:\Users\lesly\Desktop\ArbolesAVL\obj\Debug\net10.0\ArbolesAVL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lesly\Desktop\ArbolesAVL\obj\Debug\net10.0\ArbolesAVL.AssemblyInfoInputs.cache
+C:\Users\lesly\Desktop\ArbolesAVL\obj\Debug\net10.0\ArbolesAVL.AssemblyInfo.cs
+C:\Users\lesly\Desktop\ArbolesAVL\obj\Debug\net10.0\ArbolesAVL.csproj.CoreCompileInputs.cache
+C:\Users\lesly\Desktop\ArbolesAVL\obj\Debug\net10.0\ArbolesAVL.dll
+C:\Users\lesly\Desktop\ArbolesAVL\obj\Debug\net10.0\refint\ArbolesAVL.dll
+C:\Users\lesly\Desktop\ArbolesAVL\obj\Debug\net10.0\ArbolesAVL.pdb
+C:\Users\lesly\Desktop\ArbolesAVL\obj\Debug\net10.0\ArbolesAVL.genruntimeconfig.cache
+C:\Users\lesly\Desktop\ArbolesAVL\obj\Debug\net10.0\ref\ArbolesAVL.dll
